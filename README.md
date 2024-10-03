@@ -9,3 +9,5 @@
 ### [📎 Scrum](https://github.com/AugNuneS/Resumos-CryptoSubmersion2024.2/blob/main/Arquivos/Scrum/README.md)
 
 ### [📎 Segurança Da Informação](https://github.com/AugNuneS/Resumos-CryptoSubmersion2024.2/blob/main/Arquivos/Seguran%C3%A7a%20Da%20Informa%C3%A7%C3%A3o/README.md)
+
+### [📎 Bitcoin e Blockchain](https://github.com/AugNuneS/Resumos-CryptoSubmersion2024.2/blob/main/Arquivos/Bitcoin%20e%20Blockchain/README.md)
